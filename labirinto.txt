@@ -1,0 +1,5 @@
+  XXX   XXX
+X  XX X  XX 
+X   X X  XX 
+XXX   X  XX
+XXXXXXXXDXX
